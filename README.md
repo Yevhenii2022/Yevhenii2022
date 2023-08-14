@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="./wave.gif" width="30">
 
-##### I'm a Full Stack Developer 💻 Now I'm looking for my team and my work position.
+#### I'm a Full Stack Developer 💻 Now I'm looking for my team and my work position.
 
 - 👨‍🎓 I graduated from the GoIT academy
 - 🔭 I’m currently learning Next.js...
