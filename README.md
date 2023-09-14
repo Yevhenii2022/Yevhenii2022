@@ -5,7 +5,7 @@
 - 👨‍🎓 I graduated from the GoIT academy
 - 🔭 I’m currently learning Next.js...
 - 🛠 ...and mastering myself in coding
-- 🚀 The next technology to explore will be SQL
+- 🚀 The next technology to explore will be MySQL
 - 🤔 I'm motivated to become a better programmer
 - 😄 Fun fact: my best skill is Googling
 - 🤝 I'm open to collaborating on interesting projects
