@@ -3,9 +3,9 @@
 ### I'm a Full Stack Developer 💻 Now I'm looking for my team and my work position.
 
 - 👨‍🎓 I graduated from the GoIT academy
-- 🔭 I’m currently learning Next.js...
+- 🔭 I’m currently learning WooCommerce...
 - 🛠 ...and mastering myself in coding
-- 🚀 The next technology to explore will be MySQL
+- 🚀 The next technology to explore will be Laravel
 - 🤔 I'm motivated to become a better programmer
 - 😄 Fun fact: my best skill is Googling
 - 🤝 I'm open to collaborating on interesting projects
